@@ -19,7 +19,7 @@
 - 💻 Interested in Software Development & Technology  
 - 💡 Building projects and exploring new skills  
 - 🧠 Improving DSA & Problem Solving Skills  
-- 🎯 Goal: Become a Skilled Software Engineer  
+- 🎯 Goal: Become a Skilled Engineer.............. 
 
 ---
 
