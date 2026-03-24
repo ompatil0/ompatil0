@@ -60,14 +60,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ompatil0&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
