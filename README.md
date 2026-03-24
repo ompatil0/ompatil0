@@ -1,10 +1,12 @@
-<p align="left"> 
+<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=ompatil0&label=Profile%20Views&color=0e75b6&style=flat" />  
 </p>
 
 <div align="center">
 
 # 👋 Hi, I'm Om Patil
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Tech+Enthusiast;Future+Software+Engineer;DSA+Learner" />
 
 💻 Diploma in Computer Engineering Student  
 🚀 Passionate about Technology & Development  
@@ -19,7 +21,7 @@
 - 💻 Interested in Software Development & Technology  
 - 💡 Building projects and exploring new skills  
 - 🧠 Improving DSA & Problem Solving Skills  
-- 🎯 Goal: Become a Skilled Engineer.............. 
+- 🎯 Goal: Become a Skilled Software Engineer  
 
 ---
 
@@ -43,17 +45,37 @@
 
 ## 📊 GitHub Stats
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=ompatil0&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ompatil0&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ompatil0&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ompatil0&layout=compact&theme=tokyonight)
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ompatil0&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ompatil0&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-patil01)
-[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ompatil0)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/om_patil_316/)
+<p align="center">
+<a href="https://www.linkedin.com/in/om-patil01"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ompatil0"><img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/om_patil_316/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 ---
 
 <div align="center">
