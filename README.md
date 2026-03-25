@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Om Patil
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Tech+Enthusiast;Future+Software+Engineer;DSA+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Tech+Enthusiast;Learner;DSA+Learner" />
 
 💻 Diploma in Computer Engineering Student  
 🚀 Passionate about Technology & Development  
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 - 🎓 Diploma in Computer Engineering Student  
-- 💻 Interested in Software Development & Technology  
+- 💻 Interested in Cloud & DevOps.
 - 💡 Building projects and exploring new skills  
 - 🧠 Improving DSA & Problem Solving Skills  
 - 🎯 Goal: Become a Skilled Software Engineer  
